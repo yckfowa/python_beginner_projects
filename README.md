@@ -1,2 +1,3 @@
 # python_beginner_projects
-beginner projects in python 
+
+This repo contains the beginner's python projects recommended from on websites, youtube, books, courses..etc.
