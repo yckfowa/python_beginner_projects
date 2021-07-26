@@ -4,3 +4,5 @@ This repo contains the beginner's python projects recommended from websites, you
 
 
 [link] (https://github.com/yckfowa/python_beginner_projects/tree/main/Word_guessing)
+
+[I'm an inline-style link](https://www.google.com)
