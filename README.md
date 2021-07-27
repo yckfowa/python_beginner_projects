@@ -11,5 +11,6 @@ Current projects:
 - [Cap_logo](https://github.com/yckfowa/python_beginner_projects/blob/main/captain%20america.py)
 - [Deadpool_logo](https://github.com/yckfowa/python_beginner_projects/blob/main/deadpool.py)
 - [Cml_Hangman](https://github.com/yckfowa/python_beginner_projects/blob/main/cml_hangman/handman.py)
+- [Weather_App](https://github.com/yckfowa/python_beginner_projects/blob/main/Weather_app/weather_app.py)
 
 
